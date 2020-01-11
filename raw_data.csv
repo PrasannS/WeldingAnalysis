@@ -1,672 +1,661 @@
-,HT_Descript,Hardness,Hardness_Scale,Heat_Treated,Heat_Treated_As,Redry_Time,Redrying_Temp
-0,,80.0,1,none,0,0,
-1,AW: as welded ,45.0,2,treated,AW,0,
-2,AW: as welded,,0,treated,AW,1,140.0
-3,AW: as welded / SR: stress relieved,,0,treated,AW,2,350.0
-4,AW: as welded / SR: stress releived (PWHT) 580°C/2hr,,0,treated,AW,1,400.0
-5,AW: as welded / SR: stress releived (PWHT) 580°C/2hr,,0,treated,AW,1,400.0
-6,AW: as welded,,0,treated,AW,1,400.0
-7,AW: as welded,,0,treated,AW,2,325.0
-8,AW: as welded,,0,treated,AW,0,
-9,AW: as welded,,0,treated,AW,0,
-10,AW: as welded,,0,treated,AW,0,
-11,AW: as welded,,0,treated,AW,0,
-12,AW: as welded,,0,treated,AW,0,
-13,AW: as welded,,0,treated,AW,0,
-14,AW: as welded,,0,treated,AW,0,
-15,AW: as welded,,0,treated,AW,0,
-16,AW: as welded,,0,treated,AW,0,
-17,AW: as welded,,0,treated,AW,0,
-18,AW: as welded,,0,treated,AW,0,
-19,,,0,treated,AW,0,
-20,,,0,treated,AW,0,
-21,AW: as welded,,0,treated,AW,0,
-22,AW: as welded,,0,treated,AW,0,
-23,AW: as welded,,0,treated,AW,0,
-24,AW: as welded,,0,treated,AW,0,
-25,AW: as welded,,0,treated,AW,0,
-26,AW: as welded,,0,treated,AW,0,
-27,AW: as welded,170.0,3,treated,AW,0,
-28,AW: as welded,210.0,3,treated,AW,2,300.0
-29,AW: as welded,,0,treated,AW,0,
-30,AW: as welded,,0,treated,AW,0,
-31,AW: as welded,240.0,1,treated,AW,0,
-32,AW: as welded,240.0,1,treated,AW,0,
-33,AW: as welded,,0,treated,AW,0,
-34,AW: as welded,,0,treated,AW,0,
-35,AW: as welded,,0,treated,AW,0,
-36,AW: as welded,,0,treated,AW,0,
-37,AW: as welded,,0,treated,AW,0,
-38,AW: as welded,,0,treated,AW,0,
-39,AW: as welded,,0,treated,AW,0,
-40,AW: as welded,,0,treated,AW,0,
-41,AW: as welded,,0,treated,AW,0,
-42,AW: as welded,,0,treated,AW,0,
-43,AW: as welded,,0,treated,AW,0,
-44,AW: as welded,,0,treated,AW,0,
-45,,,0,,0,1,
-46,,,0,M11 - M12,0,0,
-47,,,0,I1,0,0,
-48,AW: as welded,,0,treated,AW,0,
-49,AW: as welded,,0,treated,AW,0,
-50,AW: as welded,,0,treated,AW,0,
-51,AW: as welded,,0,treated,AW,0,
-52,"Tempering: 840-870ºC / 2hr, oven cooling down to 595ºC (55C/hr), then cooled by air.
-AW: as welded",180.0,1,Tempered,0,2,320.0
-53,AW = As welded / SR = Stress relieved 800ºC / 1 hr,240.0,1,treated,AW,2,300.0
-54,AW: as welded,,0,treated,AW,0,
-55,PWHT: Post weld heat treatment,35.0,1,treated,AW,1,
-56,AW: as welded / PWHT: post weld heat treatment,38.0,1,treated,AW,1,
-57,"AW: as welded / PWHT: post weld heat treatment
-welding parameters packing",38.0,2,treated,AW,1,
-58,PWHT: Post weld heat treatment,35.0,1,treated,AW,1,
-59,AW: as welded / PWHT: post weld heat treatment,43.0,1,treated,AW,2,300.0
-60,AW: as welded / PWHT: post weld heat treatment,48.0,1,treated,AW,1,
-61,QT: Quenched and tempered,38.0,4,QT,0,0,
-62,"AW: as welded, PWHT: Post Weld Heat Treated.",,0,treated,AW,0,
-63,"AW: as welded, PWHT: Post Weld Heat Treated.",145.0,1,treated,AW,0,
-64,AW: as welded,140.0,1,treated,AW,0,
-65,AW: as welded,,0,treated,AW,0,
-66,AW: as welded,,0,treated,AW,2,300.0
-67,AW: as welded,,0,treated,AW,2,300.0
-68,AW: as welded,,0,treated,AW,2,300.0
-69,AW: as welded,,0,treated,AW,2,300.0
-70,AW: as welded,,0,treated,AW,2,300.0
-71,*strain hardening,300.0,1,treated,AW,2,300.0
-72,strain hardening,300.0,1,treated,AW,2,300.0
-73,AW: as welded,,0,treated,AW,2,300.0
-74,AW: as welded,,0,treated,AW,2,300.0
-75,AW: as welded,,0,treated,AW,2,300.0
-76,AW: as welded,,0,treated,AW,1,350.0
-77,AW: as welded,,0,treated,AW,2,300.0
-78,AW: as welded,,0,treated,AW,2,300.0
-79,AW: as welded,,0,treated,AW,2,300.0
-80,AW: as welded,,0,treated,AW,2,250.0
-81,AW: as welded,,0,treated,AW,2,300.0
-82,AW: as welded,,0,treated,AW,2,300.0
-83,AW: as welded,,0,treated,AW,2,300.0
-84,,180.0,1,treated,AW,1,350.0
-85,AW: as welded,,0,treated,AW,2,300.0
-86,AW: as welded,,0,treated,AW,2,320.0
-87,AW: as welded,200.0,1,treated,AW,2,320.0
-88,AW: as welded,200.0,3,treated,AW,2,300.0
-89,AW: as welded / minimum values at room temperature.,,0,treated,AW,2,300.0
-90,AW: as welded,,0,treated,AW,2,300.0
-91,AW: as welded,,0,treated,AW,2,250.0
-92,AW: as welded,,0,treated,AW,0,
-93,AW: as welded,,0,treated,AW,1,120.0
-94,AW: as welded,,0,treated,AW,1,140.0
-95,AW: as welded,,0,treated,AW,1,120.0
-96,AW: as welded,,0,treated,AW,2,140.0
-97,AW: as welded,,0,treated,AW,1,400.0
-98,AW: as welded,,0,treated,AW,0,
-99,AW: as welded,,0,treated,AW,1,380.0
-100,AW: as welded,,0,treated,AW,1,400.0
-101,AW: as welded,,0,treated,AW,1,400.0
-102,AW: as welded,,0,treated,AW,1,250.0
-103,AW: as welded,,0,treated,AW,1,250.0
-104,AW: as welded,,0,treated,AW,1,105.0
-105,AW: as welded,,0,treated,AW,1,400.0
-106,AW: as welded,,0,treated,AW,1,400.0
-107,AW: as welded,,0,treated,AW,2,350.0
-108,"AW: as welded, SR: PWHT 580°C / 2hr",,0,treated,AW,1,400.0
-109,AW = as welded,,0,treated,AW,1,350.0
-110,AW = as welded,,0,treated,AW,1,400.0
-111,"* SR: stress relieved / ** 930ºC/ 30 minutes in oil, + annealed for 30 minutes at 730ºC",,0,*SR 690ºC/2hr,0,1,400.0
-112,AW = as welded,,0,treated,AW,1,400.0
-113,,,0,PWHT 760°C/2hr,0,1,400.0
-114,"AW: as welded, SR: PWHT 610°C / 2hr",,0,treated,AW,1,400.0
-115,AW: as welded,,0,treated,AW,0,
-116,AW: as welded,,0,treated,AW,0,
-117,AW: as welded,,0,treated,AW,24,150.0
-118,AW: as welded,,0,treated,AW,24,150.0
-119,AW: as welded,,0,treated,AW,24,150.0
-120,AW: as welded,,0,treated,AW,24,150.0
-121,AW: as welded,,0,treated,AW,24,150.0
-122,AW; as welded,,0,treated,AW,1,
-123,AW: as welded,200.0,1,treated,AW,24,150.0
-124,AW: as welded,180.0,1,treated,AW,24,150.0
-125,AW; as welded,,0,treated,AW,24,150.0
-126,,,0,M21,0,24,150.0
-127,,,0,M21,0,24,150.0
-128,,,0,M21,0,24,150.0
-129,,,0,,0,24,150.0
-130,AW: as welded,,0,treated,AW,24,150.0
-131,AW = as welded,,0,AW with M21,0,24,150.0
-132,,,0,treated,AW,24,150.0
-133,AW: as welded,,0,treated,AW,24,150.0
-134,AW: as welded,,0,AW with M21,0,24,150.0
-135,AW = As welded (typical Ferrite level: 10%),,0,AW with M21,0,24,150.0
-136,,,0,treated,AW,24,150.0
-137,AW: as welded,,0,AW with M21,0,24,150.0
-138,,,0,,0,1,
-139,AW - as welded,,0,treated,AW,24,150.0
-140,,,0,treated,AW,24,150.0
-141,AW: as welded,,0,treated,AW,24,150.0
-142,,,0,,0,1,
-143,,40.0,4,treated,AW,24,150.0
-144,AW = as welded,,0,treated,AW,24,150.0
-145,,66.0,1,Pure weld deposit,0,0,
-146,,,0,treated,AW,24,150.0
-147,"SR: stress relieved, 760°C / 2h",260.0,1,SR (gas M21),0,24,150.0
-148,"AW: as welded, SR: stress relieved",,0,AW and SR,0,0,
-149,AW: as welded /  PWHT: post weld heat treatment,,0,treated,AW,0,
-150,AW: as welded / SR: stress relieved 580-620ºC/2hr,,0,AW and SR,0,0,
-151,"AW: as welded, SR: stress relieved 580°C / 2hr.",,0,treated,AW,0,
-152,,,0,680°C/2hr,0,0,
-153,SR stress relief annealed 675-705°C / 60 min.,,0,SR,0,1,
-154,"AW: as welded
-SR: stress relief annealed 605-635°C (1121-1175°F)",,0,treated,AW,0,
-155,AW: as welded,,0,treated,AW,24,150.0
-156,AW: as welded,46.0,4,treated,AW,24,150.0
-157,,49.0,4,,0,24,150.0
-158,,320.0,1,3 layers,0,0,
-159,,420.0,1,3 layers,0,0,
-160,AW = as welded,177.5,1,treated,AW,24,150.0
-161,AW: as welded,175.0,2,treated,AW,0,
-162,AW: as welded,39.5,1,treated,AW,0,
-163,AW: as welded ,,0,treated,AW,1,
-164,AW: as welded,,0,treated,AW,0,
-165,,40.0,1,treated,AW,24,150.0
-166,AW: as welded / SR: stress relief annealed 580°C / 2 hr,,0,treated,AW,0,
-167,AW: as welded ,,0,treated,AW,1,
-168,AW: as welded,,0,treated,AW,0,
-169,,,0,treated,AW,0,
-170,AW: as welded,59.5,4,treated,AW,0,
-171,AW: as welded / SR: stress relieved / PWHT: post weld heat treated,,0,treated,AW,0,
-172,"AW: as welded, SR: stress relieved 580ºC / 2hr",,0,treated,AW,0,
-173,AW: as welded,,0,treated,AW,0,
-174,SR: stress relief annealed 675 - 705°C (1247-1301°F) / 60 min,,0,SR,0,0,
-175,SR: stress relief annealed 675 - 705°C (1247-1301°F) / 60 min,,0,SR,0,0,
-176,AW: as welded SR: stress relief annealed 605 - 635 °C (1121-1175°F) / 60 min,,0,AW and SR,0,0,
-177,AW: as welded SH: after strain hardening,235.0,1,treated,AW,24,150.0
-178,AW: as welded,,0,treated,AW,24,150.0
-179,AW: as welded,,0,treated,AW,24,150.0
-180,AW: as welded,,0,treated,AW,24,150.0
-181,AW: as welded,,0,treated,AW,24,150.0
-182,AW: as welded,57.5,1,treated,AW,24,150.0
-183,AW: as welded,40.5,1,treated,AW,24,150.0
-184,AW = as welded,185.0,1,AW at RT,0,24,150.0
-185,AW: as welded,,0,treated,AW,0,
-186,AW: as welded ,,0,treated,AW,1,
-187,AW: as welded,,0,AW (M21),0,0,
-188,AW: as welded,,0,treated,AW,0,
-189,AW: as welded / SR: stress relieved 580°C (1076 °F) 1hr,,0,treated,AW,0,
-190,AW: as welded ,,0,treated,AW,1,
-191,AW: as welded ,,0,treated,AW,0,
-192,AW: as welded / pWHT 620°C/1 hr,,0,treated,AW,0,
-193,AW: as welded / PWHT: stress relieved 580ºC /2hr,,0,treated,AW,0,
-194,SR: stress relief annealed 675 - 705°C (1247-1301°F) / 60 min,,0,SR,0,0,
-195,"AW: as welded
-SR: stress relief annealed 605-635°C/1h (1121-1175°F)",,0,treated,AW,0,
-196,"AW: as welded
-SR: stress relief annealed 605-635°C (1121-1175°F)",,0,treated,AW,0,
-197,AW: as welded,,0,treated,AW,24,150.0
-198,AW: as welded,,0,treated,AW,0,
-199,AW: as welded,,0,treated,AW,0,
-200,,,0,treated,AW,1,
-201,AW: as welded,,0,treated,AW,0,
-202,,,0,treated,AW,0,
-203,AW: as welded,,0,RT (20°C),0,0,
-204,,,0,treated,AW,0,
-205,,,0,PWHT,0,0,
-206,,,0,PWHT,0,0,
-207,AW: as welded,,0,treated,AW,0,
-208,AW: as welded,,0,treated,AW,0,
-209,,,0,,0,1,
-210,,,0,,0,1,
-211,AW: as welded,,0,treated,AW,0,
-212,AW: as welded,,0,treated,AW,0,
-213,,,0,1.2,0,1,
-214,AW: as welded,,0,treated,AW,0,
-215,AW: as welded,,0,treated,AW,0,
-216,,,0,treated,AW,1,
-217,AW: as welded,601.5,0,treated,AW,0,
-218,AW: as welded,601.5,0,treated,AW,0,
-219,AW: as welded,597.5,0,treated,AW,0,
-220,AW: as welded,597.5,0,treated,AW,0,
-221,,579.0,0,treated,AW,0,
-222,,579.0,0,treated,AW,0,
-223,,579.0,0,treated,AW,0,
-224,,579.0,0,treated,AW,0,
-225,AW: as welded,599.0,0,treated,AW,0,
-226,AW: as welded,599.0,0,treated,AW,0,
-227,,,0,"0,25",0,1,
-228,AW: as welded,,0,treated,AW,0,
-229,AW: as welded,169.0,1,treated,AW,0,
-230,,,0,600,0,0,
-231,,,0,600,0,0,
-232,AW: as welded,37.5,1,,0,0,
-233,AW: as welded,58.5,1,,0,0,
-234,,,0,,0,1,
-235,AW: as welded,,0,"0,10",0,2,300.0
-236,,,0,,0,1,
-237,,,0,treated,AW,2,300.0
-238,,50.0,1,untreated,0,0,
-239,AW: as welded,60.0,1,treated,AW,0,
-240,AW: as welded,60.0,1,treated,AW,0,
-241,AW: as welded,60.0,1,treated,AW,0,
-242,AW: as welded,100.0,1,treated,AW,0,
-243,AW: as welded,84.0,1,treated,AW,0,
-244,AW: as welded,140.0,1,treated,AW,0,
-245,AW: as welded,140.0,1,treated,AW,0,
-246,AW: as welded,200.0,1,treated,AW,0,
-247,AW: as welded,200.0,1,treated,AW,0,
-248,AW: as welded,140.0,1,treated,AW,0,
-249,AW: As Welded,80.0,1,treated,AW,0,
-250,,80.0,1,treated,AW,0,
-251,,,0,untreated,0,0,
-252,,,0,untreated,0,0,
-253,AW: as welded,240.0,1,treated,AW,0,
-254,AW: as welded,240.0,1,treated,AW,0,
-255,,,0,Soft,0,0,
-256,AW: as welded,50.0,1,treated,AW,0,
-257,AW: as welded,80.0,1,treated,AW,0,
-258,AW: as welded,80.0,1,treated,AW,0,
-259,AW: as welded,,0,treated,AW,0,
-260,AW: as welded,60.0,1,treated,AW,0,
-261,AW: as welded,120.0,1,treated,AW,1,
-262,AW: as welded,120.0,1,treated,AW,1,
-263,AW: as welded,80.0,1,treated,AW,0,
-264,AW: as welded,80.0,1,treated,AW,0,
-265,AW: as welded,60.0,1,treated,AW,0,
-266,,96.0,1,untreated,0,0,
-267,,,0,2.0,0,0,
-268,,,0,untreated,0,0,
-269,AW: as welded,,0,treated,AW,24,150.0
-270,,,0,,0,0,
-271,AW: as welded,,0,treated,AW,24,150.0
-272,,,0,treated,AW,0,
-273,,,0,,0,1,
-274,AW: as welded,,0,treated,AW,2,300.0
-275,AW: as welded,,0,treated,AW,1,
-276,,30.0,1,treated,AW,24,150.0
-277,,,0,,0,1,
-278,,,0,2.4,0,1,
-279,AW: as welded,,0,RT (20°C),0,0,
-280,,,0,,0,1,
-281,AW: as welded,,0,treated,AW,1,130.0
-282,,57.0,4,treated,AW,1,350.0
-283,AW: as welded,,0,treated,AW,24,150.0
-284,SR: stress releived,38.5,4,SR: 1hr/750°C,0,0,
-285,SR: stress relieved,420.0,1,SR: 1hr/750°C,0,0,
-286,AW: as welded,,0,treated,AW,0,
-287,,,0,2.4,0,0,
-288,AW: as welded,,0,treated,AW,2,320.0
-289,AW: as welded,,0,treated,AW,1,350.0
-290,AW: as welded,,0,treated,AW,0,
-291,,,0,treated,AW,2,310.0
-292,AW: as welded,,0,treated,AW,0,
-293,,,0,treated,AW,1,130.0
-294,AW: as welded,,0,treated,AW,1,
-295,AW: as welded,68.0,1,treated,AW,1,
-296,AW: as welded,60.5,4,treated,AW,1,
-297,AW: as welded,63.0,4,1 layer,0,0,
-298,,,0,,0,0,
-299,3 layers on mild steel,,0,treated,AW,2,300.0
-300,"AW: as welded, >350 HB without PWHT at RT",,0,treated,AW,2,310.0
-301,AW: as welded,,0,treated,AW,2,310.0
-302,"AW: as welded, 
->375 HB without PWHT at RT",,0,treated,AW,2,310.0
-303,AW: as welded,,0,treated,AW,2,300.0
-304,,59.0,1,treated,AW,1,400.0
-305,"AW: as welded, 450 HB after cold strengthened",335.0,1,treated,AW,2,300.0
-306,"AW: as welded, 450 HB strain hardening",335.0,1,treated,AW,2,300.0
-307,,12.0,1,60% Rem.,0,0,
-308,,,0,,0,1,
-309,,2600.0,1,,0,0,
-310,,2300.0,1,,0,0,
-311,,2360.0,1,,0,0,
-312,"AW: as welded, HT: heat treatment",,0,treated,AW,1,
-313,,3000.0,1,treated,ASi,0,
-314,AW: As Welded,38.0,2,treated,AW,2,320.0
-315,AW: as welded,,0,treated,AW,1,
-316,,,0,,0,1,
-317,AW: as welded,,0,treated,AW,1,
-318,,,0,,0,1,
-319,AW: as welded,40.0,1,treated,AW,1,
-320,AW: as welded,,0,treated,AW,1,
-321,AW: as welded,,0,treated,AW,1,
-322,AW: as welded,,0,treated,AW,1,400.0
-323,,,0,730°C / 2 hours,0,1,400.0
-324,AW: as welded,180.0,1,treated,AW,2,150.0
-325,AW: as welded,100.0,1,treated,AW,2,150.0
-326,AW: as welded,220.0,1,treated,AW,2,300.0
-327,AW: as welded,,0,treated,AW,1,
-328,AW: as welded,,0,treated,AW,1,
-329,AW: as welded,,0,treated,AW,1,
-330,,,0,treated,AW,2,260.0
-331,AW: as welded,,0,treated,AW,2,320.0
-332,AW: as welded,,0,treated,AW,2,300.0
-333,AW: as welded,,0,treated,AW,1,
-334,AW: as welded,,0,treated,AW,2,300.0
-335,AW = as welded,,0,treated,AW,1,275.0
-336,AW: as welded,,0,treated,AW,1,
-337,AW: as welded,,0,treated,AW,0,
-338,AW: as welded,,0,treated,AW,0,
-339,,,0,M21,0,0,
-340,AW: as welded,,0,treated,AW,0,
-341,AW: as welded,,0,treated,AW,0,
-342,AW: as welded,,0,AW (M21),0,0,
-343,AW: as welded,,0,AW (M21),0,0,
-344,,,0,* Heat treated,0,0,
-345,,,0,* Heat treated,0,0,
-346,Preheat 150°C / Interpass temp. 400°C. max.,23.0,1,treated,AW,0,
-347,Preheat 200°C / Interpass temp; max. 300°C,,0,PWHT 620-690°C,0,0,
-348,Preheat 200°C / Interpass temp; max. 300°C,,0,PWHT 620-690°C,0,0,
-349,"SR: stress relieved PWHT 750ºC-760ºC / 1 Hr (Typical) 
-",,0,SR,0,0,
-350,AW: as welded,,0,treated,AW,0,
-351,PWHT 750ºC-760ºC / 2-3Hr,,0,PWHT,0,0,
-352,PWHT 750ºC-760ºC / 2-3Hr,,0,PWHT,0,0,
-353,Preheat 200°C / interpass max. 300°C,,0,690°C/2hr,0,0,
-354,Preheat 200°C / interpass max. 300°C,,0,690°C/2hr,0,0,
-355,"Min. : minimum values, SR: stress relieved PWHT 750ºC-760ºC / 2-3Hr",265.0,3,Min,0,0,
-356,SR: stress relieved PWHT 750ºC-760ºC / 2-3Hr,265.0,3,Min,0,0,
-357,AW: as welded,,0,treated,AW,0,
-358,,,0,treated,AW,0,
-359,,,0,treated,AW,0,
-360,AW: as welded,,0,treated,AW,0,
-361,,,0,,0,0,
-362,,,0,treated,AW,0,
-363,AW: as welded,200.0,1,treated,AW,1,200.0
-364,* For as welded condition and PWHT 580ºC / 2hr.,,0,S3Si*,0,2,1900.5
-365,The above figures are valid for the as welded condition.,,0,S2(Si),0,2,350.0
-366,AW: as welded,,0,S1,0,2,350.0
-367,,,0,S2,0,2,350.0
-368,,,0,S1,0,2,350.0
-369,,,0,,0,1,
-370,,,0,,0,1,
-371,,,0,SA 308H,0,2,325.0
-372,,0.028999999999999998,1,,0,2,325.0
-373,AW : as welded,,0,SA 2209,0,2,300.0
-374,AW : as welded,,0,SA Nicro 625,0,2,350.0
-375,PWHT time and temperature as required for the base metal and thickness.,,0,S2,0,2,325.0
-376,,8.13,1,First layer (LS),0,2,325.0
-377,AW: as welded,120.0,2,SA 347,0,2,1325.5
-378,,,0,S2,0,2,325.0
-379,,,0,S2(Si),0,2,200.0
-380,,,0,S2(Si),0,2,200.0
-381,"*   For both as welded condition and PWHT 580ºC / 2hr. 
-**  PWHT 670°C.
-*** PWHT 760°C.",,0,S3Si*,0,2,1900.5
-382,Recommended heat input : 8 – 13 KJ/cm.,,0,M21,0,0,
-383,AW: as welded,150.0,2,treated,AW,0,
-384,AW: as welded,,0,treated,AW,0,
-385,,,0,treated,AW,1,
-386,AW: as welded,,0,treated,AW,0,
-387,,,0,,0,1,
-388,,250.0,1,treated,AW,2,350.0
-389,,180.0,1,treated,AW,1,180.0
-390,,,0,,0,0,
-391,,,0,,0,1,
-392,AW: as welded,,0,treated,AW,2,260.0
-393,AW: as welded,,0,treated,AW,1,
-394,,707.5,0,untreated,0,0,
-395,,645.0,1,untreated,0,0,
-396,,654.5,1,untreated,0,0,
-397,,,0,,0,1,
-398,,,0,,0,1,
-399,,,0,,0,1,
-400,,722.5,1,treated,AB,0,
-401,,,0,treated,AB,0,
-402,,680.0,0,treated,AB,1,
-403,,680.0,0,treated,AB,0,
-404,,660.0,0,treated,AB,0,
-405,,,0,treated,AB,1,
-406,,635.0,0,treated,AB,1,
-407,,722.5,0,treated,AB,0,
-408,,652.5,0,treated,AB,1,
-409,,765.0,0,treated,AB,0,
-410,,765.0,0,treated,AB,0,
-411,,670.0,0,treated,AB,0,
-412,AW: as welded,350.0,1,treated,AW,0,
-413,AW: as welded / SR: sress relieved,44.5,4,treated,AW,0,
-414,AW: as welded / SR: sress relieved,44.5,4,treated,AW,1,
-415,AW: as welded,500.0,1,treated,AW,0,
-416,,,0,,0,0,
-417,,,0,,0,0,
-418,,,0,,0,0,
-419,,,0,,0,0,
-420,AW: as welded,51.5,1,treated,AW,0,
-421,AW: as welded,58.5,1,treated,AW,0,
-422,,52.0,4,,0,1,
-423,,59.5,4,as welded (3 layers),0,0,
-424,,54.5,1,M21,0,0,
-425,,54.5,1,l1,0,0,
-426,,44.5,1,,0,0,
-427,,44.5,1,M11 / 3 layers deposit,0,0,
-428,AW: as welded,65.0,1,treated,AW,0,
-429,AW: as welded / SR: stress relieved 580°C/2hr,,0,treated,AW,0,
-430,AW: as welded,160.0,1,treated,AW,1,200.0
-431,AW: as welded,160.0,1,treated,AW,1,200.0
-432,AW: as welded,190.0,1,treated,AW,0,
-433,AW: as welded,,0,treated,AW,0,
-434,AW: as welded,,0,treated,AW,0,
-435,,60.5,1,,0,0,
-436,AW: as welded,,0,treated,AW,0,
-437,AW: as welded,,0,treated,AW,0,
-438,AW: as welded,,0,treated,AW,0,
-439,AW: as welded,,0,treated,AW,0,
-440,,220.0,3,treated,AW,0,
-441,,220.0,3,treated,AW,0,
-442,AW: as welded,,0,treated,AW,0,
-443,AW: as welded,,0,treated,AW,0,
-444,,,0,treated,Annealed,0,
-445,,,0,treated,Annealed,0,
-446,,,0,treated,Annealed,0,
-447,AW: as welded,,0,treated,AW,0,
-448,AW: as welded,,0,treated,AW,0,
-449,,,0,treated,AW,0,
-450,,,0,treated,AW,0,
-451,,,0,treated,AW,0,
-452,AW: as welded,,0,treated,AW,0,
-453,AW: as welded,,0,treated,AW,0,
-454,,,0,treated,AW,1,
-455,,,0,treated,AW,1,
-456,,,0,treated,AW,1,
-457,,,0,treated,AW,1,
-458,AW: as welded,,0,treated,AW,0,
-459,,,0,treated,AW,0,
-460,AW: as welded,,0,treated,AW,0,
-461,AW: as welded,,0,treated,AW,0,
-462,AW: as welded,190.0,1,treated,AW,1,180.0
-463,AW: as welded,190.0,1,treated,AW,0,
-464,AW: as welded,185.0,1,treated,AW,0,
-465,AW: as welded,185.0,1,treated,AW,0,
-466,AW: as welded,160.0,1,treated,AW,0,
-467,AW: as welded,190.0,1,treated,AW,1,120.0
-468,,,0,treated,AW,0,
-469,AW: as welded,,0,treated,AW,0,
-470,AW: as welded,,0,treated,AW,0,
-471,AW: as welded,302.5,1,treated,AW,24,150.0
-472,AW: as welded,355.0,1,treated,AW,24,150.0
-473,AW: as welded,400.0,1,treated,AW,24,150.0
-474,AW: as welded,47.0,4,treated,AW,24,150.0
-475,,39.5,4,treated,AW,24,150.0
-476,AW: as welded,,0,treated,AW,24,150.0
-477,AW: as welded 3 layers,57.5,1,treated,AW,24,150.0
-478,AW: as welded,56.5,4,treated,AW,24,150.0
-479,AW: as welded,56.5,4,treated,AW,24,150.0
-480,AW: as welded,56.0,2,treated,AW,24,150.0
-481,AW: as welded 3 layers,62.0,1,treated,AW,24,150.0
-482,AW: as welded,59.5,1,treated,AW,0,
-483,,53.5,1,First layer on mild steel,0,24,150.0
-484,AW: as welded,63.5,4,treated,AW,24,150.0
-485,AW: as welded,63.5,1,treated,AW,24,150.0
-486,,51.5,4,First layer on mild steel,0,24,150.0
-487,AW: as welded,62.5,1,1 layer,0,0,
-488,,62.0,1,1 layer,0,0,
-489,AW: as welded,56.0,1,treated,AW,24,150.0
-490,AW: as welded,63.0,4,treated,AW,24,150.0
-491,AW: as welded,55.0,2,treated,AW,24,150.0
-492,AW: as welded,58.0,4,treated,AW,24,150.0
-493,AW: as welded,67.0,2,treated,AW,24,150.0
-494,AW: as welded,64.0,4,treated,AW,24,150.0
-495,AW: as welded,65.5,4,treated,AW,24,150.0
-496,AW: as welded,63.0,4,treated,AW,24,150.0
-497,AW: as welded,64.0,4,treated,AW,24,150.0
-498,AW: as welded ,66.0,4,treated,AW,24,150.0
-499,AW: as welded,68.0,4,treated,AW,24,150.0
-500,AW: as welded,,0,treated,AW,24,150.0
-501,,215.0,1,treated,AW,24,150.0
-502,"AW: as welded, SH: after strain hardening",27.5,4,treated,AW,24,150.0
-503,AW: as welded SH: after strain hardening,235.0,1,treated,AW,24,150.0
-504,AW: as welded,,0,treated,AW,24,150.0
-505,AW: as welded,,0,treated,AW,0,
-506,AW: as welded ,,0,treated,AW,24,150.0
-507,AW: as welded,59.0,4,treated,AW,24,150.0
-508,AW: as welded,2400.0,1,treated,AW,24,150.0
-509,AW: as welded,2400.0,1,treated,AW,24,150.0
-510,* shear strength,222.5,1,"7,5",0,0,
-511,,,0,"3,2",0,0,
-512,,,0,treated,AW,0,
-513,AW - as welded,,0,treated,AW,0,
-514,"AW: as welded , PWHT: post weld heat treated",,0,treated,AW,0,
-515,AW: as welded,,0,treated,AW,0,
-516,AW: as welded,,0,treated,AW,0,
-517,AW: as welded,,0,treated,AW,0,
-518,"AW: as welded, S: stress relieved",,0,treated,AW,0,
-519,,,0,,0,1,
-520,AW: as welded,,0,treated,AW,0,
-521,"AW: as welded , S: stress relieved",,0,treated,AW,0,
-522,,,0,treated,AW,0,
-523,"AW: as welded , PWHT: 610°C / 1hr",,0,treated,AW,0,
-524,,,0,,0,1,
-525,AW: as welded,,0,FL 155,0,0,
-526,N: normalized / N+A: airquenched,,0,N,0,0,
-527,,,0,treated,AW,0,
-528,AW: as welded,,0,treated,AW,0,
-529,,,0,,0,1,
-530,AW: as welded,,0,treated,AW,0,
-531,,,0,,0,1,
-532,AW: as welded,,0,treated,AW,0,
-533,,,0,,0,1,
-534,AW: as welded,,0,treated,AW,0,
-535,AW: as welded,,0,treated,AW,0,
-536,AW: as welded,,0,treated,AW,0,
-537,AW: as welded,,0,treated,AW,0,
-538,AW: as welded,,0,treated,AW,0,
-539,AW: as welded,,0,treated,AW,0,
-540,AW: as welded,,0,treated,AW,0,
-541,,,0,"2,0",0,1,
-542,,,0,,0,1,
-543,,,0,,0,0,
-544,AW: as welded,50.0,1,treated,AW,0,
-545,AW: as welded,,0,treated,AW,0,
-546,"SR: stress relieved PWHT 750ºC-760ºC / 1 Hr (Typical) 
-",,0,SR,0,0,
-547,AW: as welded,,0,treated,AW,0,
-548,AW: as welded,,0,treated,AW,0,
-549,SR: stress relieved PWHT 750ºC-760ºC / 2-3Hr,265.0,3,Min,0,0,
-550,,,0,FL 839,0,0,
-551,AW: as welded,,0,treated,AW,0,
-552,,,0,,0,1,
-553,,,0,1.6,0,1,
-554,AW: as welded,48.5,4,treated,AW,24,150.0
-555,,,0,treated,AW,1,
-556,,12.0,2,1 layer,0,0,
-557,"* maximum wire diameter 2,0 mm",,0,FL 880*,0,0,
-558,,,0,treated,AW,0,
-559,SR: stress relieved at 740°Celsius for 2 hours,,0,SR,0,0,
-560,AW: as welded,0.172,3,SA S275 strip,0,0,
-561,*760 °C/4 h/furnace down to 300 °C/air,,0,treated,Annealed,24,150.0
-562,AW: as welded,,0,treated,AW,24,150.0
-563,AW: as welded,350.0,1,treated,AW,24,150.0
-564,,,0,43-47,0,24,150.0
-565,AW: as welded,43.0,4,treated,AW,24,150.0
-566,AW: as welded,42.5,1,treated,AW,24,150.0
-567,,,0,40-44,0,24,150.0
-568,AW: as welded,,0,treated,AW,0,
-569,,,0,FL 838,0,0,
-570,,,0,treated,AW,0,
-571,AW: as welded SR: stress relief annealed 605 - 635°C (1121-1175°F) / 60 min.,,0,treated,AW,0,
-572,AW: as welded,,0,treated,AW,0,
-573,AW: as welded,,0,treated,AW,0,
-574,SR stress relief annealed 675-705°C / 60 min.,,0,SR,0,0,
-575,AW: as welded,500.0,1,treated,AW,24,150.0
-576,AW: as welded,,0,treated,AW,24,150.0
-577,AW: as welded,,0,treated,AW,24,150.0
-578,AW: as welded,55.0,4,treated,AW,24,150.0
-579,Recommended heat input : 8 – 13 KJ/cm.,,0,M21,0,1,
-580,"AW: as welded / SR: stress relieved / 
-Recommended heat input : 8 – 13 KJ/cm.",,0,AW and SR,0,0,
-581,"AW: as welded , PWHT: 610°C / 1hr",,0,treated,AW,0,
-582,,,0,C1,0,0,
-583,,,0,C1,0,0,
-584,,,0,SR,0,0,
-585,Preheat 200°C / Interpass temp max. 300°C,,0,,0,0,
-586,,,0,PWHT 620-690°C,0,0,
-587,,,0,720°C/2hr,0,0,
-588,,,0,720°C/2hr,0,0,
-589,"Min. : minimum values, SR: stress relieved PWHT 720ºC /2 Hr (Typical)",,0,AW (min.),0,0,
-590,AW: as welded,290.0,1,treated,AW,0,
-591,AW: as welded / PWHT: 620°C / 1 Hr,,0,treated,AW,0,
-592,AW: as welded,,0,treated,AW,0,
-593,AW: as welded / PWHT: 620°C / 1 Hr,,0,treated,AW,0,
-594,AW: as welded,,0,treated,AW,0,
-595,AW: as welded,,0,treated,AW,0,
-596,AW: as welded,,0,treated,AW,0,
-597,AW: as welded,,0,treated,AW,0,
-598,AW: as welded,,0,treated,AW,0,
-599,AW: as welded,,0,treated,AW,0,
-600,AW: as welded,,0,treated,AW,0,
-601,AW: as welded,,0,treated,AW,0,
-602,AW: as welded,,0,treated,AW,0,
-603,,,0,M21,0,0,
-604,,,0,I1,0,0,
-605,Recommended heat input : 8 – 13 KJ/cm.,,0,M21,0,0,
-606,AW: as welded,,0,treated,AW,0,
-607,Recommended heat input : 8 – 13 KJ/cm.,,0,I1,0,0,
-608,,67.5,1,,0,0,
-609,Tensile wire strength: 700-1000 MPa,55.0,1,,0,0,
-610,,49.5,1,,0,0,
-611,,,0,,0,1,
-612,Hardness depends on the spray parameters,50.0,4,treated,AB,0,
-613,,305.0,1,,0,0,
-614,,300.0,1,,0,0,
-615,,,0,treated,AB,0,
-616,,,0,1.6,0,0,
-617,Hardness depends on process parameters.,50.0,4,,0,0,
-618,,,0,1.6,0,1,
-619,,,0,150-53,0,0,
-620,,22.0,4,,0,0,
-621,,80.0,5,,0,0,
-622,,,0,,0,1,
-623,,38.0,6,,0,0,
-624,,90.0,1,,0,0,
-625,,,0,treated,AW,0,
-626,,,0,"3,2",0,1,
-627,,30.0,6,,0,1,
-628,,,0,,0,1,
-629,SR: stress releived,62.5,1,SR: ,0,0,
-630,,,0,,0,1,
-631,,,0,,0,1,
-632,,,0,,0,1,
-633,,,0,,0,1,
-634,,,0,,0,1,
-635,,55.0,4,,0,24,150.0
-636,Hardness fully depend on the spray parameters,1170.0,3,treated,AB,24,150.0
-637,Hardness fully depend on the spray parameters,65.0,4,treated,AB,24,150.0
-638,,67.5,1,treated,ASp,0,
-639,Hardness fully depend on the spray parameters.,50.0,1,treated,AB,0,
-640,,44.0,1,treated,AB,0,
-641,,60.0,1,treated,AB,0,
-642,,66.0,1,treated,AB,0,
-643,,160.0,6,,0,24,150.0
-644,,1170.0,1,treated,AB,24,150.0
-645,,,0,treated,AB,24,150.0
-646,AW: as welded,60.0,4,treated,AW,1,
-647,,39.0,4,treated,AW,0,
-648,,350.0,1,treated,AW,1,
-649,* For as welded condition and PWHT 580ºC / 2hr.,,0,SDA D3*,0,2,1900.5
-650,* For both as welded condition and anealed at 920ºC.,,0,SDA S2,0,2,1900.5
-651,AW: as welded,,0,treated,AW,0,
-652,AW: as welded,,0,treated,AW,0,
-653,,,0,"0,25",0,1,
-654,AW: as welded,,0,treated,AW,0,
-655,,,0,"0,25",0,1,
-656,,,0,,0,1,
-657,,72.0,1,PCHT+N,0,0,
-658,AW: as welded,120.0,1,treated,AW,2,150.0
-659,AW; as welded,,0,treated,AW,0,
+,Hardness,Hardness_Scale,Heat_Treated_As,Redry_Time,Redrying_Temp,HT_Time,HT_Temp
+0,80.0,1,,0,,,0.0
+1,45.0,2,AW,0,,,0.0
+2,,0,AW,1,140.0,,0.0
+3,,0,AW/SR,2,350.0,,0.0
+4,,0,AW/SR/PWHT,1,400.0,2.0,580.0
+5,,0,AW/SR/PWHT,1,400.0,2.0,580.0
+6,,0,AW,1,400.0,,0.0
+7,,0,AW,2,325.0,,0.0
+8,,0,AW,0,,,0.0
+9,,0,AW,0,,,0.0
+10,,0,AW,0,,,0.0
+11,,0,AW,0,,,0.0
+12,,0,AW,0,,,0.0
+13,,0,AW,0,,,0.0
+14,,0,AW,0,,,0.0
+15,,0,AW,0,,,0.0
+16,,0,AW,0,,,0.0
+17,,0,AW,0,,,0.0
+18,,0,AW,0,,,0.0
+19,,0,AW,0,,,0.0
+20,,0,AW,0,,,0.0
+21,,0,AW,0,,,0.0
+22,,0,AW,0,,,0.0
+23,,0,AW,0,,,0.0
+24,,0,AW,0,,,0.0
+25,,0,AW,0,,,0.0
+26,,0,AW,0,,,0.0
+27,170.0,3,AW,0,,,0.0
+28,210.0,3,AW,2,300.0,,0.0
+29,,0,AW,0,,,0.0
+30,,0,AW,0,,,0.0
+31,240.0,1,AW,0,,,0.0
+32,240.0,1,AW,0,,,0.0
+33,,0,AW,0,,,0.0
+34,,0,AW,0,,,0.0
+35,,0,AW,0,,,0.0
+36,,0,AW,0,,,0.0
+37,,0,AW,0,,,0.0
+38,,0,AW,0,,,0.0
+39,,0,AW,0,,,0.0
+40,,0,AW,0,,,0.0
+41,,0,AW,0,,,0.0
+42,,0,AW,0,,,0.0
+43,,0,AW,0,,,0.0
+44,,0,AW,0,,,0.0
+45,,0,,1,,,0.0
+46,,0,,0,,,0.0
+47,,0,,0,,,0.0
+48,,0,AW,0,,,0.0
+49,,0,AW,0,,,0.0
+50,,0,AW,0,,,0.0
+51,,0,AW,0,,,0.0
+52,180.0,1,,2,320.0,2.0,840.0
+53,240.0,1,AW/SR,2,300.0,1.0,800.0
+54,,0,AW,0,,,0.0
+55,35.0,1,AW/PWHT,1,,,0.0
+56,38.0,1,AW/PWHT,1,,,0.0
+57,38.0,2,AW/PWHT,1,,,0.0
+58,35.0,1,AW/PWHT,1,,,0.0
+59,43.0,1,AW/PWHT,2,300.0,,0.0
+60,48.0,1,AW/PWHT,1,,,0.0
+61,38.0,4,,0,,,0.0
+62,,0,AW/PWHT,0,,,0.0
+63,145.0,1,AW/PWHT,0,,,0.0
+64,140.0,1,AW,0,,,0.0
+65,,0,AW,0,,,0.0
+66,,0,AW,2,300.0,,0.0
+67,,0,AW,2,300.0,,0.0
+68,,0,AW,2,300.0,,0.0
+69,,0,AW,2,300.0,,0.0
+70,,0,AW,2,300.0,,0.0
+71,300.0,1,AW/SH,2,300.0,,0.0
+72,300.0,1,AW/SH,2,300.0,,0.0
+73,,0,AW,2,300.0,,0.0
+74,,0,AW,2,300.0,,0.0
+75,,0,AW,2,300.0,,0.0
+76,,0,AW,1,350.0,,0.0
+77,,0,AW,2,300.0,,0.0
+78,,0,AW,2,300.0,,0.0
+79,,0,AW,2,300.0,,0.0
+80,,0,AW,2,250.0,,0.0
+81,,0,AW,2,300.0,,0.0
+82,,0,AW,2,300.0,,0.0
+83,,0,AW,2,300.0,,0.0
+84,180.0,1,AW,1,350.0,,0.0
+85,,0,AW,2,300.0,,0.0
+86,,0,AW,2,320.0,,0.0
+87,200.0,1,AW,2,320.0,,0.0
+88,200.0,3,AW,2,300.0,,0.0
+89,,0,AW,2,300.0,,0.0
+90,,0,AW,2,300.0,,0.0
+91,,0,AW,2,250.0,,0.0
+92,,0,AW,0,,,0.0
+93,,0,AW,1,120.0,,0.0
+94,,0,AW,1,140.0,,0.0
+95,,0,AW,1,120.0,,0.0
+96,,0,AW,2,140.0,,0.0
+97,,0,AW,1,400.0,,0.0
+98,,0,AW,0,,,0.0
+99,,0,AW,1,380.0,,0.0
+100,,0,AW,1,400.0,,0.0
+101,,0,AW,1,400.0,,0.0
+102,,0,AW,1,250.0,,0.0
+103,,0,AW,1,250.0,,0.0
+104,,0,AW,1,105.0,,0.0
+105,,0,AW,1,400.0,,0.0
+106,,0,AW,1,400.0,,0.0
+107,,0,AW,2,350.0,,0.0
+108,,0,AW/SR/PWHT,1,400.0,2.0,580.0
+109,,0,AW,1,350.0,,0.0
+110,,0,AW,1,400.0,,0.0
+111,,0,SR/AN,1,400.0,0.5,930.0
+112,,0,AW,1,400.0,,0.0
+113,,0,,1,400.0,,0.0
+114,,0,AW/SR/PWHT,1,400.0,2.0,610.0
+115,,0,AW,0,,,0.0
+116,,0,AW,0,,,0.0
+117,,0,AW,24,150.0,,0.0
+118,,0,AW,24,150.0,,0.0
+119,,0,AW,24,150.0,,0.0
+120,,0,AW,24,150.0,,0.0
+121,,0,AW,24,150.0,,0.0
+122,,0,AW,1,,,0.0
+123,200.0,1,AW,24,150.0,,0.0
+124,180.0,1,AW,24,150.0,,0.0
+125,,0,AW,24,150.0,,0.0
+126,,0,,24,150.0,,0.0
+127,,0,,24,150.0,,0.0
+128,,0,,24,150.0,,0.0
+129,,0,,24,150.0,,0.0
+130,,0,AW,24,150.0,,0.0
+131,,0,,24,150.0,,0.0
+132,,0,AW,24,150.0,,0.0
+133,,0,AW,24,150.0,,0.0
+134,,0,,24,150.0,,0.0
+135,,0,,24,150.0,,0.0
+136,,0,AW,24,150.0,,0.0
+137,,0,,24,150.0,,0.0
+138,,0,,1,,,0.0
+139,,0,AW,24,150.0,,0.0
+140,,0,AW,24,150.0,,0.0
+141,,0,AW,24,150.0,,0.0
+142,,0,,1,,,0.0
+143,40.0,4,AW,24,150.0,,0.0
+144,,0,AW,24,150.0,,0.0
+145,66.0,1,,0,,,0.0
+146,,0,AW,24,150.0,,0.0
+147,260.0,1,SR,24,150.0,,760.0
+148,,0,SR,0,,,0.0
+149,,0,AW/PWHT,0,,,0.0
+150,,0,SR,0,,2.0,580.0
+151,,0,AW/SR,0,,2.0,580.0
+152,,0,,0,,,0.0
+153,,0,SR/AN,1,,1.0,675.0
+154,,0,AW/SR/AN,0,,,6.0
+155,,0,AW,24,150.0,,0.0
+156,46.0,4,AW,24,150.0,,0.0
+157,49.0,4,,24,150.0,,0.0
+158,320.0,1,,0,,,0.0
+159,420.0,1,,0,,,0.0
+160,177.5,1,AW,24,150.0,,0.0
+161,175.0,2,AW,0,,,0.0
+162,39.5,1,AW,0,,,0.0
+163,,0,AW,1,,,0.0
+164,,0,AW,0,,,0.0
+165,40.0,1,AW,24,150.0,,0.0
+166,,0,AW/SR/AN,0,,2.0,580.0
+167,,0,AW,1,,,0.0
+168,,0,AW,0,,,0.0
+169,,0,AW,0,,,0.0
+170,59.5,4,AW,0,,,0.0
+171,,0,AW/SR/PWHT,0,,,0.0
+172,,0,AW/SR,0,,2.0,580.0
+173,,0,AW,0,,,0.0
+174,,0,SR/AN,0,,1.0,675.0
+175,,0,SR/AN,0,,1.0,675.0
+176,,0,SR/AN,0,,1.0,605.0
+177,235.0,1,AW/SH,24,150.0,,0.0
+178,,0,AW,24,150.0,,0.0
+179,,0,AW,24,150.0,,0.0
+180,,0,AW,24,150.0,,0.0
+181,,0,AW,24,150.0,,0.0
+182,57.5,1,AW,24,150.0,,0.0
+183,40.5,1,AW,24,150.0,,0.0
+184,185.0,1,,24,150.0,,0.0
+185,,0,AW,0,,,0.0
+186,,0,AW,1,,,0.0
+187,,0,,0,,,0.0
+188,,0,AW,0,,,0.0
+189,,0,AW/SR,0,,1.0,580.0
+190,,0,AW,1,,,0.0
+191,,0,AW,0,,,0.0
+192,,0,AW,0,,1.0,620.0
+193,,0,AW/PWHT,0,,2.0,580.0
+194,,0,SR/AN,0,,1.0,675.0
+195,,0,AW/SR/AN,0,,,6.0
+196,,0,AW/SR/AN,0,,,6.0
+197,,0,AW,24,150.0,,0.0
+198,,0,AW,0,,,0.0
+199,,0,AW,0,,,0.0
+200,,0,AW,1,,,0.0
+201,,0,AW,0,,,0.0
+202,,0,AW,0,,,0.0
+203,,0,,0,,,0.0
+204,,0,AW,0,,,0.0
+205,,0,,0,,,0.0
+206,,0,,0,,,0.0
+207,,0,AW,0,,,0.0
+208,,0,AW,0,,,0.0
+209,,0,,1,,,0.0
+210,,0,,1,,,0.0
+211,,0,AW,0,,,0.0
+212,,0,AW,0,,,0.0
+213,,0,,1,,,0.0
+214,,0,AW,0,,,0.0
+215,,0,AW,0,,,0.0
+216,,0,AW,1,,,0.0
+217,601.5,0,AW,0,,,0.0
+218,601.5,0,AW,0,,,0.0
+219,597.5,0,AW,0,,,0.0
+220,597.5,0,AW,0,,,0.0
+221,579.0,0,AW,0,,,0.0
+222,579.0,0,AW,0,,,0.0
+223,579.0,0,AW,0,,,0.0
+224,579.0,0,AW,0,,,0.0
+225,599.0,0,AW,0,,,0.0
+226,599.0,0,AW,0,,,0.0
+227,,0,,1,,,0.0
+228,,0,AW,0,,,0.0
+229,169.0,1,AW,0,,,0.0
+230,,0,,0,,,0.0
+231,,0,,0,,,0.0
+232,37.5,1,,0,,,0.0
+233,58.5,1,,0,,,0.0
+234,,0,,1,,,0.0
+235,,0,,2,300.0,,0.0
+236,,0,,1,,,0.0
+237,,0,AW,2,300.0,,0.0
+238,50.0,1,,0,,,0.0
+239,60.0,1,AW,0,,,0.0
+240,60.0,1,AW,0,,,0.0
+241,60.0,1,AW,0,,,0.0
+242,100.0,1,AW,0,,,0.0
+243,84.0,1,AW,0,,,0.0
+244,140.0,1,AW,0,,,0.0
+245,140.0,1,AW,0,,,0.0
+246,200.0,1,AW,0,,,0.0
+247,200.0,1,AW,0,,,0.0
+248,140.0,1,AW,0,,,0.0
+249,80.0,1,AW,0,,,0.0
+250,80.0,1,AW,0,,,0.0
+251,,0,,0,,,0.0
+252,,0,,0,,,0.0
+253,240.0,1,AW,0,,,0.0
+254,240.0,1,AW,0,,,0.0
+255,,0,,0,,,0.0
+256,50.0,1,AW,0,,,0.0
+257,80.0,1,AW,0,,,0.0
+258,80.0,1,AW,0,,,0.0
+259,,0,AW,0,,,0.0
+260,60.0,1,AW,0,,,0.0
+261,120.0,1,AW,1,,,0.0
+262,120.0,1,AW,1,,,0.0
+263,80.0,1,AW,0,,,0.0
+264,80.0,1,AW,0,,,0.0
+265,60.0,1,AW,0,,,0.0
+266,96.0,1,,0,,,0.0
+267,,0,,0,,,0.0
+268,,0,,0,,,0.0
+269,,0,AW,24,150.0,,0.0
+270,,0,,0,,,0.0
+271,,0,AW,24,150.0,,0.0
+272,,0,AW,0,,,0.0
+273,,0,,1,,,0.0
+274,,0,AW,2,300.0,,0.0
+275,,0,AW,1,,,0.0
+276,30.0,1,AW,24,150.0,,0.0
+277,,0,,1,,,0.0
+278,,0,,1,,,0.0
+279,,0,,0,,,0.0
+280,,0,,1,,,0.0
+281,,0,AW,1,130.0,,0.0
+282,57.0,4,AW,1,350.0,,0.0
+283,,0,AW,24,150.0,,0.0
+284,38.5,4,SR,0,,,0.0
+285,420.0,1,SR,0,,,0.0
+286,,0,AW,0,,,0.0
+287,,0,,0,,,0.0
+288,,0,AW,2,320.0,,0.0
+289,,0,AW,1,350.0,,0.0
+290,,0,AW,0,,,0.0
+291,,0,AW,2,310.0,,0.0
+292,,0,AW,0,,,0.0
+293,,0,AW,1,130.0,,0.0
+294,,0,AW,1,,,0.0
+295,68.0,1,AW,1,,,0.0
+296,60.5,4,AW,1,,,0.0
+297,63.0,4,,0,,,0.0
+298,,0,,0,,,0.0
+299,,0,AW,2,300.0,,0.0
+300,,0,AW/PWHT,2,310.0,,0.0
+301,,0,AW,2,310.0,,0.0
+302,,0,AW/PWHT,2,310.0,,0.0
+303,,0,AW,2,300.0,,0.0
+304,59.0,1,AW,1,400.0,,0.0
+305,335.0,1,AW,2,300.0,,0.0
+306,335.0,1,AW/SH,2,300.0,,0.0
+307,12.0,1,,0,,,0.0
+308,,0,,1,,,0.0
+309,2600.0,1,,0,,,0.0
+310,2300.0,1,,0,,,0.0
+311,2360.0,1,,0,,,0.0
+312,,0,AW,1,,,0.0
+313,3000.0,1,ASi,0,,,0.0
+314,38.0,2,AW,2,320.0,,0.0
+315,,0,AW,1,,,0.0
+316,,0,,1,,,0.0
+317,,0,AW,1,,,0.0
+318,,0,,1,,,0.0
+319,40.0,1,AW,1,,,0.0
+320,,0,AW,1,,,0.0
+321,,0,AW,1,,,0.0
+322,,0,AW,1,400.0,,0.0
+323,,0,,1,400.0,,0.0
+324,180.0,1,AW,2,150.0,,0.0
+325,100.0,1,AW,2,150.0,,0.0
+326,220.0,1,AW,2,300.0,,0.0
+327,,0,AW,1,,,0.0
+328,,0,AW,1,,,0.0
+329,,0,AW,1,,,0.0
+330,,0,AW,2,260.0,,0.0
+331,,0,AW,2,320.0,,0.0
+332,,0,AW,2,300.0,,0.0
+333,,0,AW,1,,,0.0
+334,,0,AW,2,300.0,,0.0
+335,,0,AW,1,275.0,,0.0
+336,,0,AW,1,,,0.0
+337,,0,AW,0,,,0.0
+338,,0,AW,0,,,0.0
+339,,0,,0,,,0.0
+340,,0,AW,0,,,0.0
+341,,0,AW,0,,,0.0
+342,,0,,0,,,0.0
+343,,0,,0,,,0.0
+344,,0,,0,,,0.0
+345,,0,,0,,,0.0
+346,23.0,1,AW,0,,,150.0
+347,,0,,0,,,200.0
+348,,0,,0,,,200.0
+349,,0,SR/PWHT,0,,1.0,750.0
+350,,0,AW,0,,,0.0
+351,,0,PWHT,0,,3.0,750.0
+352,,0,PWHT,0,,3.0,750.0
+353,,0,,0,,,200.0
+354,,0,,0,,,200.0
+355,265.0,3,SR/PWHT,0,,3.0,750.0
+356,265.0,3,SR/PWHT,0,,3.0,750.0
+357,,0,AW,0,,,0.0
+358,,0,AW,0,,,0.0
+359,,0,AW,0,,,0.0
+360,,0,AW,0,,,0.0
+361,,0,,0,,,0.0
+362,,0,AW,0,,,0.0
+363,200.0,1,AW,1,200.0,,0.0
+364,,0,PWHT,2,1900.5,2.0,580.0
+365,,0,,2,350.0,,0.0
+366,,0,,2,350.0,,0.0
+367,,0,,2,350.0,,0.0
+368,,0,,2,350.0,,0.0
+369,,0,,1,,,0.0
+370,,0,,1,,,0.0
+371,,0,,2,325.0,,0.0
+372,0.028999999999999998,1,,2,325.0,,0.0
+373,,0,,2,300.0,,0.0
+374,,0,,2,350.0,,0.0
+375,,0,PWHT,2,325.0,,0.0
+376,8.13,1,,2,325.0,,0.0
+377,120.0,2,,2,1325.5,,0.0
+378,,0,,2,325.0,,0.0
+379,,0,,2,200.0,,0.0
+380,,0,,2,200.0,,0.0
+381,,0,PWHT,2,1900.5,2.0,580.0
+382,,0,,0,,,0.0
+383,150.0,2,AW,0,,,0.0
+384,,0,AW,0,,,0.0
+385,,0,AW,1,,,0.0
+386,,0,AW,0,,,0.0
+387,,0,,1,,,0.0
+388,250.0,1,AW,2,350.0,,0.0
+389,180.0,1,AW,1,180.0,,0.0
+390,,0,,0,,,0.0
+391,,0,,1,,,0.0
+392,,0,AW,2,260.0,,0.0
+393,,0,AW,1,,,0.0
+394,707.5,0,,0,,,0.0
+395,645.0,1,,0,,,0.0
+396,654.5,1,,0,,,0.0
+397,,0,,1,,,0.0
+398,,0,,1,,,0.0
+399,,0,,1,,,0.0
+400,722.5,1,AB,0,,,0.0
+401,,0,AB,0,,,0.0
+402,680.0,0,AB,1,,,0.0
+403,680.0,0,AB,0,,,0.0
+404,660.0,0,AB,0,,,0.0
+405,,0,AB,1,,,0.0
+406,635.0,0,AB,1,,,0.0
+407,722.5,0,AB,0,,,0.0
+408,652.5,0,AB,1,,,0.0
+409,765.0,0,AB,0,,,0.0
+410,765.0,0,AB,0,,,0.0
+411,670.0,0,AB,0,,,0.0
+412,350.0,1,AW,0,,,0.0
+413,44.5,4,AW/SR,0,,,0.0
+414,44.5,4,AW/SR,1,,,0.0
+415,500.0,1,AW,0,,,0.0
+416,,0,,0,,,0.0
+417,,0,,0,,,0.0
+418,,0,,0,,,0.0
+419,,0,,0,,,0.0
+420,51.5,1,AW,0,,,0.0
+421,58.5,1,AW,0,,,0.0
+422,52.0,4,,1,,,0.0
+423,59.5,4,,0,,,0.0
+424,54.5,1,,0,,,0.0
+425,54.5,1,,0,,,0.0
+426,44.5,1,,0,,,0.0
+427,44.5,1,,0,,,0.0
+428,65.0,1,AW,0,,,0.0
+429,,0,AW/SR,0,,2.0,580.0
+430,160.0,1,AW,1,200.0,,0.0
+431,160.0,1,AW,1,200.0,,0.0
+432,190.0,1,AW,0,,,0.0
+433,,0,AW,0,,,0.0
+434,,0,AW,0,,,0.0
+435,60.5,1,,0,,,0.0
+436,,0,AW,0,,,0.0
+437,,0,AW,0,,,0.0
+438,,0,AW,0,,,0.0
+439,,0,AW,0,,,0.0
+440,220.0,3,AW,0,,,0.0
+441,220.0,3,AW,0,,,0.0
+442,,0,AW,0,,,0.0
+443,,0,AW,0,,,0.0
+444,,0,AN,0,,,0.0
+445,,0,AN,0,,,0.0
+446,,0,AN,0,,,0.0
+447,,0,AW,0,,,0.0
+448,,0,AW,0,,,0.0
+449,,0,AW,0,,,0.0
+450,,0,AW,0,,,0.0
+451,,0,AW,0,,,0.0
+452,,0,AW,0,,,0.0
+453,,0,AW,0,,,0.0
+454,,0,AW,1,,,0.0
+455,,0,AW,1,,,0.0
+456,,0,AW,1,,,0.0
+457,,0,AW,1,,,0.0
+458,,0,AW,0,,,0.0
+459,,0,AW,0,,,0.0
+460,,0,AW,0,,,0.0
+461,,0,AW,0,,,0.0
+462,190.0,1,AW,1,180.0,,0.0
+463,190.0,1,AW,0,,,0.0
+464,185.0,1,AW,0,,,0.0
+465,185.0,1,AW,0,,,0.0
+466,160.0,1,AW,0,,,0.0
+467,190.0,1,AW,1,120.0,,0.0
+468,,0,AW,0,,,0.0
+469,,0,AW,0,,,0.0
+470,,0,AW,0,,,0.0
+471,302.5,1,AW,24,150.0,,0.0
+472,355.0,1,AW,24,150.0,,0.0
+473,400.0,1,AW,24,150.0,,0.0
+474,47.0,4,AW,24,150.0,,0.0
+475,39.5,4,AW,24,150.0,,0.0
+476,,0,AW,24,150.0,,0.0
+477,57.5,1,AW,24,150.0,,0.0
+478,56.5,4,AW,24,150.0,,0.0
+479,56.5,4,AW,24,150.0,,0.0
+480,56.0,2,AW,24,150.0,,0.0
+481,62.0,1,AW,24,150.0,,0.0
+482,59.5,1,AW,0,,,0.0
+483,53.5,1,,24,150.0,,0.0
+484,63.5,4,AW,24,150.0,,0.0
+485,63.5,1,AW,24,150.0,,0.0
+486,51.5,4,,24,150.0,,0.0
+487,62.5,1,,0,,,0.0
+488,62.0,1,,0,,,0.0
+489,56.0,1,AW,24,150.0,,0.0
+490,63.0,4,AW,24,150.0,,0.0
+491,55.0,2,AW,24,150.0,,0.0
+492,58.0,4,AW,24,150.0,,0.0
+493,67.0,2,AW,24,150.0,,0.0
+494,64.0,4,AW,24,150.0,,0.0
+495,65.5,4,AW,24,150.0,,0.0
+496,63.0,4,AW,24,150.0,,0.0
+497,64.0,4,AW,24,150.0,,0.0
+498,66.0,4,AW,24,150.0,,0.0
+499,68.0,4,AW,24,150.0,,0.0
+500,,0,AW,24,150.0,,0.0
+501,215.0,1,AW,24,150.0,,0.0
+502,27.5,4,AW/SH,24,150.0,,0.0
+503,235.0,1,AW/SH,24,150.0,,0.0
+504,,0,AW,24,150.0,,0.0
+505,,0,AW,0,,,0.0
+506,,0,AW,24,150.0,,0.0
+507,59.0,4,AW,24,150.0,,0.0
+508,2400.0,1,AW,24,150.0,,0.0
+509,2400.0,1,AW,24,150.0,,0.0
+510,222.5,1,,0,,,0.0
+511,,0,,0,,,0.0
+512,,0,AW,0,,,0.0
+513,,0,AW,0,,,0.0
+514,,0,AW/PWHT,0,,,0.0
+515,,0,AW,0,,,0.0
+516,,0,AW,0,,,0.0
+517,,0,AW,0,,,0.0
+518,,0,AW/SR,0,,,0.0
+519,,0,,1,,,0.0
+520,,0,AW,0,,,0.0
+521,,0,AW/SR,0,,,0.0
+522,,0,AW,0,,,0.0
+523,,0,AW/PWHT,0,,1.0,610.0
+524,,0,,1,,,0.0
+525,,0,,0,,,0.0
+526,,0,,0,,,0.0
+527,,0,AW,0,,,0.0
+528,,0,AW,0,,,0.0
+529,,0,,1,,,0.0
+530,,0,AW,0,,,0.0
+531,,0,,1,,,0.0
+532,,0,AW,0,,,0.0
+533,,0,,1,,,0.0
+534,,0,AW,0,,,0.0
+535,,0,AW,0,,,0.0
+536,,0,AW,0,,,0.0
+537,,0,AW,0,,,0.0
+538,,0,AW,0,,,0.0
+539,,0,AW,0,,,0.0
+540,,0,AW,0,,,0.0
+541,,0,,1,,,0.0
+542,,0,,1,,,0.0
+543,,0,,0,,,0.0
+544,50.0,1,AW,0,,,0.0
+545,,0,AW,0,,,0.0
+546,,0,SR/PWHT,0,,1.0,750.0
+547,,0,AW,0,,,0.0
+548,,0,AW,0,,,0.0
+549,265.0,3,SR/PWHT,0,,3.0,750.0
+550,,0,,0,,,0.0
+551,,0,AW,0,,,0.0
+552,,0,,1,,,0.0
+553,,0,,1,,,0.0
+554,48.5,4,AW,24,150.0,,0.0
+555,,0,AW,1,,,0.0
+556,12.0,2,,0,,,0.0
+557,,0,,0,,,0.0
+558,,0,AW,0,,,0.0
+559,,0,SR,0,,2.0,740.0
+560,0.172,3,,0,,,0.0
+561,,0,AN,24,150.0,4.0,760.0
+562,,0,AW,24,150.0,,0.0
+563,350.0,1,AW,24,150.0,,0.0
+564,,0,,24,150.0,,0.0
+565,43.0,4,AW,24,150.0,,0.0
+566,42.5,1,AW,24,150.0,,0.0
+567,,0,,24,150.0,,0.0
+568,,0,AW,0,,,0.0
+569,,0,,0,,,0.0
+570,,0,AW,0,,,0.0
+571,,0,AW/SR/AN,0,,1.0,605.0
+572,,0,AW,0,,,0.0
+573,,0,AW,0,,,0.0
+574,,0,SR/AN,0,,1.0,675.0
+575,500.0,1,AW,24,150.0,,0.0
+576,,0,AW,24,150.0,,0.0
+577,,0,AW,24,150.0,,0.0
+578,55.0,4,AW,24,150.0,,0.0
+579,,0,,1,,,0.0
+580,,0,SR,0,,,0.0
+581,,0,AW/PWHT,0,,1.0,610.0
+582,,0,,0,,,0.0
+583,,0,,0,,,0.0
+584,,0,,0,,,0.0
+585,,0,,0,,,200.0
+586,,0,,0,,,0.0
+587,,0,,0,,,0.0
+588,,0,,0,,,0.0
+589,,0,SR/PWHT,0,,2.0,720.0
+590,290.0,1,AW,0,,,0.0
+591,,0,AW/PWHT,0,,1.0,620.0
+592,,0,AW,0,,,0.0
+593,,0,AW/PWHT,0,,1.0,620.0
+594,,0,AW,0,,,0.0
+595,,0,AW,0,,,0.0
+596,,0,AW,0,,,0.0
+597,,0,AW,0,,,0.0
+598,,0,AW,0,,,0.0
+599,,0,AW,0,,,0.0
+600,,0,AW,0,,,0.0
+601,,0,AW,0,,,0.0
+602,,0,AW,0,,,0.0
+603,,0,,0,,,0.0
+604,,0,,0,,,0.0
+605,,0,,0,,,0.0
+606,,0,AW,0,,,0.0
+607,,0,,0,,,0.0
+608,67.5,1,,0,,,0.0
+609,55.0,1,,0,,,0.0
+610,49.5,1,,0,,,0.0
+611,,0,,1,,,0.0
+612,50.0,4,AB,0,,,0.0
+613,305.0,1,,0,,,0.0
+614,300.0,1,,0,,,0.0
+615,,0,AB,0,,,0.0
+616,,0,,0,,,0.0
+617,50.0,4,,0,,,0.0
+618,,0,,1,,,0.0
+619,,0,,0,,,0.0
+620,22.0,4,,0,,,0.0
+621,80.0,5,,0,,,0.0
+622,,0,,1,,,0.0
+623,38.0,6,,0,,,0.0
+624,90.0,1,,0,,,0.0
+625,,0,AW,0,,,0.0
+626,,0,,1,,,0.0
+627,30.0,6,,1,,,0.0
+628,,0,,1,,,0.0
+629,62.5,1,SR,0,,,0.0
+630,,0,,1,,,0.0
+631,,0,,1,,,0.0
+632,,0,,1,,,0.0
+633,,0,,1,,,0.0
+634,,0,,1,,,0.0
+635,55.0,4,,24,150.0,,0.0
+636,1170.0,3,AB,24,150.0,,0.0
+637,65.0,4,AB,24,150.0,,0.0
+638,67.5,1,ASp,0,,,0.0
+639,50.0,1,AB,0,,,0.0
+640,44.0,1,AB,0,,,0.0
+641,60.0,1,AB,0,,,0.0
+642,66.0,1,AB,0,,,0.0
+643,160.0,6,,24,150.0,,0.0
+644,1170.0,1,AB,24,150.0,,0.0
+645,,0,AB,24,150.0,,0.0
+646,60.0,4,AW,1,,,0.0
+647,39.0,4,AW,0,,,0.0
+648,350.0,1,AW,1,,,0.0
+649,,0,PWHT,2,1900.5,2.0,580.0
+650,,0,AN,2,1900.5,,920.0
+651,,0,AW,0,,,0.0
+652,,0,AW,0,,,0.0
+653,,0,,1,,,0.0
+654,,0,AW,0,,,0.0
+655,,0,,1,,,0.0
+656,,0,,1,,,0.0
+657,72.0,1,,0,,,0.0
+658,120.0,1,AW,2,150.0,,0.0
+659,,0,AW,0,,,0.0
