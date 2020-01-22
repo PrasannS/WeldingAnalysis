@@ -1,0 +1,24 @@
+Diameter	Length	1 lb (0.5 kg) Plastic Tube	10 lb (4.5 kg) Easy Open Can	50 lb (22.7kg)
+in (mm)	in (mm)	6 lb (2.7 kg) Master Carton	30 lb (13.6 kg) Master Carton	Easy Open Can
+3/32 (2.4)	14 (350)	ED032086	ED032588	ED028280
+1/8 (3.2)	14 (350)	ED031468	ED032589	ED028281
+5/32 (4.0)	14 (350)		ED032590	ED028282
+3/16 (4.8)	14 (350)			ED028283
+7/32 (5.6)	18 (450)			ED028917
+1/4 (6.4)	18 (450)			ED028918
+""				Charpy V-Notch
+""	Yield Strength(2)	Tensile Strength	Elongation	J (ft•lbf)
+""	MPa (ksi)	MPa (ksi)	%	@ -29°C (-20°F)
+Requirements - AWS E7018 H4R	400 (58) min.	490 (70) min.	22 min.	27 (20) min.
+Typical Results(3) - As-Welded	430-510 (62-74)	510-605 (74-88)	25-37	121-332 (89-246)
+""	%C	%Mn	%Si	%P	%S %Ni
+Requirements - AWS E7018 H4R	0.15 max.	1.60 max.	0.75 max.	0.035 max.	0.035 max. 0.30 max.
+Typical Results(3)	0.03-0.08	1.01-1.55	0.34-0.68	0.01-0.02	≤ 0.01 0.01-0.06
+""				%Mn + Ni + Cr	Diffusible Hydrogen
+""	%Cr	%Mo	%V	+ Mo + V	(mL/100g weld metal)
+Requirements - AWS E7018 H4R	0.20 max.	0.30 max.	0.08 max.	1.75 max.	4.0 max.
+Typical Results(3)	0.02-0.07	≤ 0.05	≤ 0.02	1.04-1.75	2-3
+""			Current (Amps)		
+Polarity(4)	3/32 in (2.4 mm)	1/8 in (3.2 mm)	5/32 in (4.0 mm) 3/16 in (4.8 mm)	7/32 in (5.6 mm)	1/4 in (6.4  mm)
+DC+	70-110	90-160	130-210 180-300	250-330	300-400
+AC	80-120	100-160	140-210 200-300	270-370	325-420
