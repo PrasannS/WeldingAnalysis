@@ -8,4 +8,4 @@
 - [Lincoln Electric Welding Products Dataset](https://www.lincolnelectric.com/en-us/consumables/Pages/consumables.aspx)
 - [Citrination Weld Composites Dataset](https://citrination.com/datasets/114194/show_search?searchMatchOption=fuzzyMatch)
 
-This scraping was done through the combination of webscraping and data preprocessing using BeautifulSoup and Pandas. See 
+This scraping was done through the combination of webscraping and data preprocessing using BeautifulSoup and Pandas. See [my webscraping code to see exactly how I did that (sorry about the messiness)]()
