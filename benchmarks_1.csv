@@ -1,0 +1,91 @@
+,column,data,model,params,test,validation
+0,Rm,1.0,logistic_regression,"{'C': 2.6498856268447555, 'class_weight': 'balanced', 'fit_intercept': False, 'max_iter': 480, 'multi_class': 'auto', 'normalize': 1, 'scale': 0, 'solver': 'newton-cg', 'tol': 2.8342694430347048e-05, 'warm_start': True}",1.3232231140136719e-05,1.33514404296875e-05
+1,A5,1.0,logistic_regression,"{'C': 2.8070755651067083, 'class_weight': 'balanced', 'fit_intercept': True, 'max_iter': 999, 'multi_class': 'auto', 'normalize': 1, 'scale': 1, 'solver': 'newton-cg', 'tol': 2.016904941834612e-05, 'warm_start': False}",1.3232231140136719e-05,1.33514404296875e-05
+2,Diffusible Hydrogen,1.0,logistic_regression,"{'C': 0.9643432834971166, 'class_weight': 'balanced', 'fit_intercept': True, 'max_iter': 628, 'multi_class': 'auto', 'normalize': 1, 'scale': 0, 'solver': 'lbfgs', 'tol': 9.555752794012529e-05, 'warm_start': True}",1.3232231140136719e-05,1.33514404296875e-05
+3,Moisture,1.0,logistic_regression,"{'C': 0.49775609127215714, 'class_weight': 'balanced', 'fit_intercept': False, 'max_iter': 770, 'multi_class': 'auto', 'normalize': 0, 'scale': 1, 'solver': 'newton-cg', 'tol': 7.251775176039598e-05, 'warm_start': False}",1.3232231140136719e-05,1.33514404296875e-05
+4,Yield strength,1.0,logistic_regression,"{'C': 2.8037172864127626, 'class_weight': 'balanced', 'fit_intercept': False, 'max_iter': 840, 'multi_class': 'auto', 'normalize': 1, 'scale': 1, 'solver': 'liblinear', 'tol': 7.46273151164107e-05, 'warm_start': True}",1.3232231140136719e-05,1.33514404296875e-05
+5,Tensile,1.0,logistic_regression,"{'C': 1.9834380124588114, 'class_weight': 'balanced', 'fit_intercept': True, 'max_iter': 990, 'multi_class': 'auto', 'normalize': 0, 'scale': 1, 'solver': 'lbfgs', 'tol': 8.989595309120453e-05, 'warm_start': True}",1.3232231140136719e-05,1.33514404296875e-05
+6,Hardness,1.0,logistic_regression,"{'C': 0.6939035782541753, 'class_weight': 'balanced', 'fit_intercept': True, 'max_iter': 618, 'multi_class': 'auto', 'normalize': 1, 'scale': 1, 'solver': 'newton-cg', 'tol': 6.584391442588064e-05, 'warm_start': False}",1.3232231140136719e-05,1.33514404296875e-05
+7,Ferrite (Fn),1.0,logistic_regression,"{'C': 2.018811274803415, 'class_weight': 'balanced', 'fit_intercept': True, 'max_iter': 938, 'multi_class': 'auto', 'normalize': 1, 'scale': 1, 'solver': 'liblinear', 'tol': 5.5539587105493065e-05, 'warm_start': True}",1.3232231140136719e-05,1.33514404296875e-05
+8,Category,1.0,logistic_regression,"{'C': 1.3804806436769808, 'class_weight': 'balanced', 'fit_intercept': False, 'max_iter': 732, 'multi_class': 'auto', 'normalize': 0, 'scale': 1, 'solver': 'lbfgs', 'tol': 7.85265078508841e-05, 'warm_start': True}",1.3232231140136719e-05,1.33514404296875e-05
+9,Elongation,1.0,logistic_regression,"{'C': 1.3648275745709029, 'class_weight': 'balanced', 'fit_intercept': True, 'max_iter': 397, 'multi_class': 'auto', 'normalize': 0, 'scale': 1, 'solver': 'liblinear', 'tol': 4.139655518311963e-05, 'warm_start': False}",1.3232231140136719e-05,1.33514404296875e-05
+10,Charpy,1.0,logistic_regression,"{'C': 0.6946566283252602, 'class_weight': 'balanced', 'fit_intercept': True, 'max_iter': 538, 'multi_class': 'auto', 'normalize': 0, 'scale': 0, 'solver': 'liblinear', 'tol': 5.617512429984457e-05, 'warm_start': False}",1.3232231140136719e-05,1.33514404296875e-05
+11,DIN_W,1.0,logistic_regression,"{'C': 2.390980504324543, 'class_weight': 'balanced', 'fit_intercept': False, 'max_iter': 238, 'multi_class': 'auto', 'normalize': 0, 'scale': 0, 'solver': 'lbfgs', 'tol': 2.0829164887298788e-05, 'warm_start': False}",1.3232231140136719e-05,1.33514404296875e-05
+12,HT_Temp,1.0,logistic_regression,"{'C': 0.6403615116586421, 'class_weight': 'balanced', 'fit_intercept': True, 'max_iter': 866, 'multi_class': 'auto', 'normalize': 0, 'scale': 1, 'solver': 'lbfgs', 'tol': 4.124356759510968e-05, 'warm_start': True}",1.3232231140136719e-05,1.33514404296875e-05
+13,IE-20,1.0,logistic_regression,"{'C': 0.9207860849616847, 'class_weight': 'balanced', 'fit_intercept': False, 'max_iter': 154, 'multi_class': 'auto', 'normalize': 0, 'scale': 1, 'solver': 'liblinear', 'tol': 9.507742577041735e-05, 'warm_start': True}",1.3232231140136719e-05,1.33514404296875e-05
+14,IE-40,1.0,logistic_regression,"{'C': 2.12116841861449, 'class_weight': 'balanced', 'fit_intercept': True, 'max_iter': 454, 'multi_class': 'auto', 'normalize': 0, 'scale': 1, 'solver': 'newton-cg', 'tol': 9.585969547728632e-05, 'warm_start': True}",1.3232231140136719e-05,1.33514404296875e-05
+15,IE-60,1.0,logistic_regression,"{'C': 0.5189982849681215, 'class_weight': 'balanced', 'fit_intercept': True, 'max_iter': 141, 'multi_class': 'auto', 'normalize': 1, 'scale': 1, 'solver': 'liblinear', 'tol': 7.789619122396337e-05, 'warm_start': False}",1.3232231140136719e-05,1.33514404296875e-05
+16,Redry_Time,1.0,logistic_regression,"{'C': 2.7209415826450494, 'class_weight': 'balanced', 'fit_intercept': False, 'max_iter': 266, 'multi_class': 'auto', 'normalize': 0, 'scale': 0, 'solver': 'liblinear', 'tol': 4.805472947380258e-05, 'warm_start': True}",1.3232231140136719e-05,1.33514404296875e-05
+17,Rp0,1.0,logistic_regression,"{'C': 1.8500077492257214, 'class_weight': 'balanced', 'fit_intercept': True, 'max_iter': 440, 'multi_class': 'auto', 'normalize': 0, 'scale': 1, 'solver': 'newton-cg', 'tol': 1.864924337046381e-05, 'warm_start': False}",1.3232231140136719e-05,1.33514404296875e-05
+18,Rm,1.0,rf,"{'criterion': 'entropy', 'max_depth': 12, 'max_features': 6, 'n_estimators': 46}",0.003941655158996582,0.00394517183303833
+19,A5,1.0,rf,"{'criterion': 'gini', 'max_depth': 1, 'max_features': 2, 'n_estimators': 49}",0.002874135971069336,0.002876877784729004
+20,Diffusible Hydrogen,1.0,rf,"{'criterion': 'gini', 'max_depth': 7, 'max_features': 2, 'n_estimators': 44}",0.004865527153015137,0.004869699478149414
+21,Moisture,1.0,rf,"{'criterion': 'gini', 'max_depth': 19, 'max_features': 9, 'n_estimators': 44}",0.004865527153015137,0.004869699478149414
+22,Yield strength,1.0,rf,"{'criterion': 'gini', 'max_depth': 1, 'max_features': 6, 'n_estimators': 29}",0.023603856563568115,0.023617267608642578
+23,Tensile,1.0,rf,"{'criterion': 'gini', 'max_depth': 4, 'max_features': 5, 'n_estimators': 48}",0.0031932592391967773,0.003196239471435547
+24,Hardness,1.0,rf,"{'criterion': 'entropy', 'max_depth': 14, 'max_features': 9, 'n_estimators': 49}",0.002874135971069336,0.002876877784729004
+25,Ferrite (Fn),1.0,rf,"{'criterion': 'entropy', 'max_depth': 18, 'max_features': 2, 'n_estimators': 47}",0.0035477876663208008,0.003551006317138672
+26,Category,1.0,rf,"{'criterion': 'gini', 'max_depth': 19, 'max_features': 9, 'n_estimators': 46}",0.003941655158996582,0.00394517183303833
+27,Elongation,1.0,rf,"{'criterion': 'gini', 'max_depth': 17, 'max_features': 4, 'n_estimators': 48}",0.0031932592391967773,0.003196239471435547
+28,Charpy,1.0,rf,"{'criterion': 'gini', 'max_depth': 10, 'max_features': 8, 'n_estimators': 49}",0.002874135971069336,0.002876877784729004
+29,DIN_W,1.0,rf,"{'criterion': 'gini', 'max_depth': 19, 'max_features': 4, 'n_estimators': 44}",0.004865527153015137,0.004869699478149414
+30,HT_Temp,1.0,rf,"{'criterion': 'gini', 'max_depth': 4, 'max_features': 6, 'n_estimators': 46}",0.003941655158996582,0.00394517183303833
+31,IE-20,1.0,rf,"{'criterion': 'gini', 'max_depth': 15, 'max_features': 2, 'n_estimators': 47}",0.0035477876663208008,0.003551006317138672
+32,IE-40,1.0,rf,"{'criterion': 'gini', 'max_depth': 12, 'max_features': 5, 'n_estimators': 41}",0.00667262077331543,0.006677985191345215
+33,IE-60,1.0,rf,"{'criterion': 'entropy', 'max_depth': 12, 'max_features': 8, 'n_estimators': 49}",0.002874135971069336,0.002876877784729004
+34,Redry_Time,1.0,rf,"{'criterion': 'gini', 'max_depth': 3, 'max_features': 5, 'n_estimators': 45}",0.0043792724609375,0.004383087158203125
+35,Rp0,1.0,rf,"{'criterion': 'gini', 'max_depth': 5, 'max_features': 4, 'n_estimators': 48}",0.0031932592391967773,0.003196239471435547
+36,Rm,1.0,knn,{'n_neighbors': 49},1.3232231140136719e-05,1.33514404296875e-05
+37,A5,1.0,knn,{'n_neighbors': 37},1.3232231140136719e-05,1.33514404296875e-05
+38,Diffusible Hydrogen,1.0,knn,{'n_neighbors': 72},1.3232231140136719e-05,1.33514404296875e-05
+39,Moisture,1.0,knn,{'n_neighbors': 87},1.3232231140136719e-05,1.33514404296875e-05
+40,Yield strength,1.0,knn,{'n_neighbors': 36},1.3232231140136719e-05,1.33514404296875e-05
+41,Tensile,1.0,knn,{'n_neighbors': 1},1.3232231140136719e-05,1.33514404296875e-05
+42,Hardness,1.0,knn,{'n_neighbors': 53},1.3232231140136719e-05,1.33514404296875e-05
+43,Ferrite (Fn),1.0,knn,{'n_neighbors': 58},1.3232231140136719e-05,1.33514404296875e-05
+44,Category,1.0,knn,{'n_neighbors': 50},1.3232231140136719e-05,1.33514404296875e-05
+45,Elongation,1.0,knn,{'n_neighbors': 13},1.3232231140136719e-05,1.33514404296875e-05
+46,Charpy,1.0,knn,{'n_neighbors': 60},1.3232231140136719e-05,1.33514404296875e-05
+47,DIN_W,1.0,knn,{'n_neighbors': 71},1.3232231140136719e-05,1.33514404296875e-05
+48,HT_Temp,1.0,knn,{'n_neighbors': 18},1.3232231140136719e-05,1.33514404296875e-05
+49,IE-20,1.0,knn,{'n_neighbors': 35},1.3232231140136719e-05,1.33514404296875e-05
+50,IE-40,1.0,knn,{'n_neighbors': 98},1.3232231140136719e-05,1.33514404296875e-05
+51,IE-60,1.0,knn,{'n_neighbors': 75},1.3232231140136719e-05,1.33514404296875e-05
+52,Redry_Time,1.0,knn,{'n_neighbors': 31},1.3232231140136719e-05,1.33514404296875e-05
+53,Rp0,1.0,knn,{'n_neighbors': 7},1.3232231140136719e-05,1.33514404296875e-05
+54,Rm,1.0,svr,"{'C': 12.134182859411096, 'gamma': 3.8938545719606643, 'kernel': 'sigmoid', 'normalize': 1, 'scale': 0}",1.3232231140136719e-05,1.33514404296875e-05
+55,A5,1.0,svr,"{'C': 17.990125971521433, 'gamma': 6.890119874232148, 'kernel': 'sigmoid', 'normalize': 0, 'scale': 1}",1.3232231140136719e-05,1.33514404296875e-05
+56,Diffusible Hydrogen,1.0,svr,"{'C': 15.806535156664964, 'gamma': 13.13383036132334, 'kernel': 'poly', 'normalize': 0, 'scale': 0}",1.3232231140136719e-05,1.33514404296875e-05
+57,Moisture,1.0,svr,"{'C': 6.778871469040286, 'gamma': 11.378709188769939, 'kernel': 'rbf', 'normalize': 0, 'scale': 1}",1.3232231140136719e-05,1.33514404296875e-05
+58,Yield strength,1.0,svr,"{'C': 6.338467107549171, 'gamma': 16.192014239723974, 'kernel': 'rbf', 'normalize': 1, 'scale': 1}",1.3232231140136719e-05,1.33514404296875e-05
+59,Tensile,1.0,svr,"{'C': 18.284553027400364, 'gamma': 9.197561651524765, 'kernel': 'linear', 'normalize': 0, 'scale': 1}",1.3232231140136719e-05,1.33514404296875e-05
+60,Hardness,1.0,svr,"{'C': 18.51494153577366, 'gamma': 1.4152477491443927, 'kernel': 'poly', 'normalize': 1, 'scale': 1}",1.3232231140136719e-05,1.33514404296875e-05
+61,Ferrite (Fn),1.0,svr,"{'C': 8.937527161773417, 'gamma': 2.15300800554046, 'kernel': 'poly', 'normalize': 1, 'scale': 1}",1.3232231140136719e-05,1.33514404296875e-05
+62,Category,1.0,svr,"{'C': 2.3019143236044237, 'gamma': 15.442479147271586, 'kernel': 'rbf', 'normalize': 0, 'scale': 0}",1.3232231140136719e-05,1.33514404296875e-05
+63,Elongation,1.0,svr,"{'C': 18.326886125456735, 'gamma': 11.18200132009726, 'kernel': 'sigmoid', 'normalize': 0, 'scale': 0}",1.3232231140136719e-05,1.33514404296875e-05
+64,Charpy,1.0,svr,"{'C': 8.294983434386506, 'gamma': 13.023954502676258, 'kernel': 'linear', 'normalize': 0, 'scale': 0}",1.3232231140136719e-05,1.33514404296875e-05
+65,DIN_W,1.0,svr,"{'C': 8.151798251350327, 'gamma': 2.6446082475541677, 'kernel': 'rbf', 'normalize': 0, 'scale': 0}",1.3232231140136719e-05,1.33514404296875e-05
+66,HT_Temp,1.0,svr,"{'C': 18.1734616637849, 'gamma': 12.764574926774156, 'kernel': 'sigmoid', 'normalize': 1, 'scale': 1}",1.3232231140136719e-05,1.33514404296875e-05
+67,IE-20,1.0,svr,"{'C': 18.054864328434896, 'gamma': 13.147456049196489, 'kernel': 'poly', 'normalize': 0, 'scale': 1}",1.3232231140136719e-05,1.33514404296875e-05
+68,IE-40,1.0,svr,"{'C': 5.61553225977824, 'gamma': 8.26023728992421, 'kernel': 'linear', 'normalize': 0, 'scale': 0}",1.3232231140136719e-05,1.33514404296875e-05
+69,IE-60,1.0,svr,"{'C': 9.245962118512441, 'gamma': 8.26559085107785, 'kernel': 'linear', 'normalize': 1, 'scale': 1}",1.3232231140136719e-05,1.33514404296875e-05
+70,Redry_Time,1.0,svr,"{'C': 5.900230689270847, 'gamma': 6.377953778826935, 'kernel': 'sigmoid', 'normalize': 1, 'scale': 1}",1.3232231140136719e-05,1.33514404296875e-05
+71,Rp0,1.0,svr,"{'C': 1.197459346373968, 'gamma': 17.77241586143955, 'kernel': 'sigmoid', 'normalize': 1, 'scale': 1}",1.3232231140136719e-05,1.33514404296875e-05
+72,Rm,1.0,xgb,"{'colsample_bytree': 0.4, 'learning_rate': 0.15000000000000002, 'max_depth': 5, 'min_child_weight': 6, 'n_estimators': 100, 'silent': True, 'subsample': 0.9097902725285675}",2.384185791015625e-07,-0.0
+73,A5,1.0,xgb,"{'colsample_bytree': 0.6000000000000001, 'learning_rate': 0.3, 'max_depth': 8, 'min_child_weight': 4, 'n_estimators': 100, 'silent': True, 'subsample': 0.8715110022762187}",4.76837158203125e-07,-0.0
+74,Diffusible Hydrogen,1.0,xgb,"{'colsample_bytree': 0.7000000000000002, 'learning_rate': 0.25, 'max_depth': 14, 'min_child_weight': 1, 'n_estimators': 100, 'silent': True, 'subsample': 0.9863550193441135}",2.980232238769531e-07,-0.0
+75,Moisture,1.0,xgb,"{'colsample_bytree': 0.4, 'learning_rate': 0.15000000000000002, 'max_depth': 6, 'min_child_weight': 6, 'n_estimators': 100, 'silent': True, 'subsample': 0.8444622180235091}",5.364418029785156e-07,-0.0
+76,Yield strength,1.0,xgb,"{'colsample_bytree': 0.4, 'learning_rate': 0.15000000000000002, 'max_depth': 12, 'min_child_weight': 6, 'n_estimators': 100, 'silent': True, 'subsample': 0.8290327794507568}",3.5762786865234375e-07,-0.0
+77,Tensile,1.0,xgb,"{'colsample_bytree': 0.6000000000000001, 'learning_rate': 0.15000000000000002, 'max_depth': 7, 'min_child_weight': 4, 'n_estimators': 100, 'silent': True, 'subsample': 0.8975475552871601}",1.1920928955078125e-07,-0.0
+78,Hardness,1.0,xgb,"{'colsample_bytree': 0.5, 'learning_rate': 0.15000000000000002, 'max_depth': 5, 'min_child_weight': 2, 'n_estimators': 100, 'silent': True, 'subsample': 0.9188964837513474}",3.5762786865234375e-07,-0.0
+79,Ferrite (Fn),1.0,xgb,"{'colsample_bytree': 0.4, 'learning_rate': 0.3, 'max_depth': 10, 'min_child_weight': 7, 'n_estimators': 100, 'silent': True, 'subsample': 0.9055773893932264}",4.76837158203125e-07,-0.0
+80,Category,1.0,xgb,"{'colsample_bytree': 0.4, 'learning_rate': 0.2, 'max_depth': 10, 'min_child_weight': 7, 'n_estimators': 100, 'silent': True, 'subsample': 0.883422510770387}",4.76837158203125e-07,-0.0
+81,Elongation,1.0,xgb,"{'colsample_bytree': 0.4, 'learning_rate': 0.25, 'max_depth': 7, 'min_child_weight': 6, 'n_estimators': 100, 'silent': True, 'subsample': 0.8560784189664046}",4.172325134277344e-07,-0.0
+82,Charpy,1.0,xgb,"{'colsample_bytree': 0.5, 'learning_rate': 0.3, 'max_depth': 10, 'min_child_weight': 3, 'n_estimators': 100, 'silent': True, 'subsample': 0.8603548356179241}",5.960464477539062e-07,-0.0
+83,DIN_W,1.0,xgb,"{'colsample_bytree': 0.5, 'learning_rate': 0.15000000000000002, 'max_depth': 9, 'min_child_weight': 3, 'n_estimators': 100, 'silent': True, 'subsample': 0.8016012637003842}",3.5762786865234375e-07,-0.0
+84,HT_Temp,1.0,xgb,"{'colsample_bytree': 0.4, 'learning_rate': 0.25, 'max_depth': 11, 'min_child_weight': 5, 'n_estimators': 100, 'silent': True, 'subsample': 0.9564101946733514}",2.980232238769531e-07,-0.0
+85,IE-20,1.0,xgb,"{'colsample_bytree': 0.3, 'learning_rate': 0.3, 'max_depth': 11, 'min_child_weight': 1, 'n_estimators': 100, 'silent': True, 'subsample': 0.9385212194338619}",5.960464477539062e-07,-0.0
+86,IE-40,1.0,xgb,"{'colsample_bytree': 0.4, 'learning_rate': 0.3, 'max_depth': 8, 'min_child_weight': 1, 'n_estimators': 100, 'silent': True, 'subsample': 0.911755819387525}",5.364418029785156e-07,-0.0
+87,IE-60,1.0,xgb,"{'colsample_bytree': 0.3, 'learning_rate': 0.3, 'max_depth': 6, 'min_child_weight': 6, 'n_estimators': 100, 'silent': True, 'subsample': 0.9280288186334456}",5.960464477539062e-07,-0.0
+88,Redry_Time,1.0,xgb,"{'colsample_bytree': 0.4, 'learning_rate': 0.2, 'max_depth': 14, 'min_child_weight': 2, 'n_estimators': 100, 'silent': True, 'subsample': 0.8766761984244608}",5.960464477539062e-07,-0.0
+89,Rp0,1.0,xgb,"{'colsample_bytree': 0.5, 'learning_rate': 0.15000000000000002, 'max_depth': 13, 'min_child_weight': 6, 'n_estimators': 100, 'silent': True, 'subsample': 0.9487894668598627}",4.76837158203125e-07,-0.0
