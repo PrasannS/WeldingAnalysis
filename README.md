@@ -50,3 +50,34 @@ I would definetely like to look into it more if possible, it was a great introdu
 Once I handled many of the more basic models provided by Scikit Learn (RandomForest Regressor, DecisionTree, LARS, etc.), I moved on to some other models known to perform, outside of the given libraries. XGBoost (trusty as always), Light GBMs, and CatBoost were the main ones that I tried out. XGBoost by far performed the best, and in general beat almost every other algorithm I've tested, after proper hyperparameter tuning. This was the stage where I broke out HyperOpt and started extracting the full potential of my models, but without a doubt there is still plenty of work to be done. (TODO) A VERY PESKY BUG ruined my week, but was the primary hitch in this process. In general, while very new to me, this entire stage was relatively methodical, if nothing else. I would not call my model search exhaustive, but comprehensive (at least considering how new a lot of this work is to me).
 
 
+## NOW, The interesting part
+
+# Setting it up on Your Own OR Model Deployment (Running models on a flask server)
+
+## Getting set up with the flask server. 
+
+### Installation
+
+Make sure that you are inside of the flask app directory. 
+
+`pip install scikit-learn pandas numpy flask`
+`python model.py`
+
+### Then, to run, simply run the following command: 
+
+`python app.py`
+
+## Running code in jupyter
+
+### Webscraper
+
+If you want to try and mess around with the webscraping code, be aware that code is incomplete / messy, so it can't simply be run in one go, but if you want to try some of my scraping algorithms / approaches most of the methods are functional / re-usable. 
+
+### Statistical Analysis
+
+The code should be ready to run throughout the notebook, just run through it to get complete detail on all the statistical analysis I performed, the code is relatively efficient / finalized, so you shouldn't run into any issues.
+
+### Machine Learning and Benchmarking
+
+To try running the models yourself, just go to the [regression code](https://github.com/PrasannS/WeldingAnalysis/blob/master/notebooks/regression_analysis.ipynb) and run from top to bottom. The data loading is performed in a method where you can choose whether or not to limit analyses to only stick electrodes or the entire stored dataset. I believe this is set by a boolean parameter passed in. The hyperparameter optimization code is relatively apparent and manipulatable. The returned values from the data loading method give everything needed to tweak the dataset. Benchmarking code is also offloaded to methods, so the code is largely compartmentalized. It should be a quick run through, though the benchmarking itself will take quite a while. You need to change the hyperopt rounds to 10 from 100 to get a realistic idea of the model, but besides that the code is largely self-explanatory. (TODO) Once the benchmarks are run, the pickles should automatically save into the flask server folders, so you can just run the server directly, otherwise the provided models should suffice. 
+
